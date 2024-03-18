@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cloudsted": "^1.0.5"
+    "cloudsted": "^1.0.5",
+    "dotenv": "^16.4.5"
   }
 }
